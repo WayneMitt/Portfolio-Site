@@ -290,6 +290,10 @@ input, select, textarea {
 
 		}
 
+		.ghlink {
+			margin-bottom: 20px;
+		}
+
 /* Row */
 
 	.row {
